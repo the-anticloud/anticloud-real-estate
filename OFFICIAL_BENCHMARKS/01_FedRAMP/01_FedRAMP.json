@@ -1,0 +1,16 @@
+{
+ "framework": "01_FedRAMP",
+ "title": "FedRAMP Moderate (NIST SP 800-53 rev5 baseline)",
+ "project": "REAL_ESTATE",
+ "basis": [
+  {
+   "check": "12_fedramp",
+   "status": "PASS",
+   "observed": "10/10 controls evidenced (100.0%)"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "5d284383d3d4ae345dc298195fd390b90c4d3b87e9d053e2d6452b7eb95b337e",
+ "register_sha3": "29259129e2ae072ec718b0b86691ee70f8dd347a755574c1e1681b84026ae113"
+}
